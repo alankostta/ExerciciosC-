@@ -1,0 +1,15 @@
+/home/alan/Documentos/ExercicioIMC/bin/Debug/net6.0/ExercicioIMC
+/home/alan/Documentos/ExercicioIMC/bin/Debug/net6.0/ExercicioIMC.deps.json
+/home/alan/Documentos/ExercicioIMC/bin/Debug/net6.0/ExercicioIMC.runtimeconfig.json
+/home/alan/Documentos/ExercicioIMC/bin/Debug/net6.0/ExercicioIMC.dll
+/home/alan/Documentos/ExercicioIMC/bin/Debug/net6.0/ref/ExercicioIMC.dll
+/home/alan/Documentos/ExercicioIMC/bin/Debug/net6.0/ExercicioIMC.pdb
+/home/alan/Documentos/ExercicioIMC/obj/Debug/net6.0/ExercicioIMC.csproj.AssemblyReference.cache
+/home/alan/Documentos/ExercicioIMC/obj/Debug/net6.0/ExercicioIMC.GeneratedMSBuildEditorConfig.editorconfig
+/home/alan/Documentos/ExercicioIMC/obj/Debug/net6.0/ExercicioIMC.AssemblyInfoInputs.cache
+/home/alan/Documentos/ExercicioIMC/obj/Debug/net6.0/ExercicioIMC.AssemblyInfo.cs
+/home/alan/Documentos/ExercicioIMC/obj/Debug/net6.0/ExercicioIMC.csproj.CoreCompileInputs.cache
+/home/alan/Documentos/ExercicioIMC/obj/Debug/net6.0/ExercicioIMC.dll
+/home/alan/Documentos/ExercicioIMC/obj/Debug/net6.0/ref/ExercicioIMC.dll
+/home/alan/Documentos/ExercicioIMC/obj/Debug/net6.0/ExercicioIMC.pdb
+/home/alan/Documentos/ExercicioIMC/obj/Debug/net6.0/ExercicioIMC.genruntimeconfig.cache
